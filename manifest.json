@@ -1,0 +1,8 @@
+{
+  "name": "Duty Roster",
+  "short_name": "Duty Roster",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1F3864"
+}
