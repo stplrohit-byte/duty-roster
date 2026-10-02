@@ -1,8 +1,14 @@
 {
-  "name": "Duty Roster",
+  "name": "Duty Roster - STPL",
   "short_name": "Duty Roster",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f6fb",
-  "theme_color": "#1F3864"
+  "background_color": "#eef1f7",
+  "theme_color": "#1F3864",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
 }
